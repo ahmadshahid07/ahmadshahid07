@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ahmad Shahid ⚡
+#  Ahmad Shahid 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;Flutter+Developer;React+Developer;Node.js+Backend+Developer;Building+Oblivion+AI;Always+Learning+New+Technologies" />
 
@@ -102,8 +102,8 @@ Goal:
 |----------|----------|---------|-----------|-------|
 | React | Node.js | Flutter | MySQL | Git |
 | HTML | Express | Dart | Supabase | GitHub |
-| CSS | REST API | Firebase |
-| JavaScript |  | VS Code |
+| CSS | REST API | Firebase | VS Code |
+| JavaScript |  
 
 ---
 
