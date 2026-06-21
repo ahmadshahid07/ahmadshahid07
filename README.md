@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/ahmad-%D8%B4%D8%A7%DB%81%D8%AF-0bb8013b4/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -99,6 +99,8 @@
 ---
 
 # 📂 Featured Projects
+
+Skyth( E-commerce ) website
 
 🚑 Emergency Rescue Helmet System
 
