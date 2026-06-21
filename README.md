@@ -103,7 +103,7 @@ Goal:
 | React | Node.js | Flutter | MySQL | Git |
 | HTML | Express | Dart | Supabase | GitHub |
 | CSS | REST API | Firebase |
-| JavaScript | | | | VS Code |
+| JavaScript |  | VS Code |
 
 ---
 
